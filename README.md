@@ -1,2 +1,2 @@
-# blog-api-jamie-sonja
-Our repository for the Blog API challenge.
+# Tanner-Jamie-Blog-Mongoose
+Our repository for the Blog API Mongoose challenge.
